@@ -1,3 +1,3 @@
 # stickit-docs
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/facebook-docusaurus-uhhmpg)
+User Documentation for **StickIt! - Label Building & Printing for Dymo Printers**
