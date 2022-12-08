@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'User Guide',
+        title: 'Resource Center',
         logo: {
           alt: 'StickIt! Logo',
           src: 'img/logo.png',
@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Documentation',
+            label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -92,8 +92,8 @@ const config = {
                 to: '/docs/category/setup',
               },
               {
-                label: 'Billing',
-                to: '/docs/category/billing',
+                label: 'Account Management',
+                to: '/docs/category/account-management',
               },
             ],
           },

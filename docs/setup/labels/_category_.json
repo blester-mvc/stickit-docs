@@ -1,0 +1,9 @@
+{
+    "label": "Labels",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "All the information you need to configure StickIt! for your Salesforce environment."
+    }
+  }
+  
