@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
-# List Views
+# Objects
 
-Enable StickIt for use with most\* Standard and Custom Object **List Views** by following these steps:
+Enable StickIt for use with any Standard or Custom Object by following these steps:
 
 1. Click the **gear** icon in the upper right corner
 ![screenshot 1](../../../shared/img/1.png)
@@ -19,14 +19,13 @@ Enable StickIt for use with most\* Standard and Custom Object **List Views** by 
   - **Name** _Make sure spaces are replaced with underscores_
   - **Available for Lightning Experience**...
   - **Visualforce Markup**
+![screenshot 5](img/5.png)
 
 ### Markup Template
 
 ```
-<apex:page 
-  standardController="OBJECT_API_NAME"
-  recordSetVar="items"
-  extensions="TSS_StickIt_MR1.stickItListViewControllerv2"
+<apex:page
+  standardController="OBJECT_API_NAME" 
   standardStylesheets="false" 
   showHeader="false" 
   sidebar="false" 
@@ -35,7 +34,7 @@ Enable StickIt for use with most\* Standard and Custom Object **List Views** by 
   docType="html-5.0"
 >
   <tss_stickit_mr1:stickit_dual 
-      selectedRecords="{!records}"
+      sobjectId="{!Id}" 
       order_by="Name"
   />
 </apex:page>

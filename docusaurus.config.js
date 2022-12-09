@@ -84,12 +84,16 @@ const config = {
             title: 'Documentation',
             items: [
               {
-                label: 'Installation',
+                label: 'Introduction',
                 to: '/docs/intro',
               },
               {
                 label: 'Setup',
                 to: '/docs/category/setup',
+              },
+              {
+                label: 'User Guide',
+                to: '/docs/category/user-guide',
               },
               {
                 label: 'Account Management',
