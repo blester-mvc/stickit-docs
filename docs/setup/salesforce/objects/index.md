@@ -6,20 +6,24 @@ sidebar_position: 1
 
 Enable StickIt for use with any Standard or Custom Object by following these steps:
 
-1. Click the **gear** icon in the upper right corner
-![screenshot 1](../../../shared/img/1.png)
-1. Select **Setup** from the menu
-![screenshot 2](../../../shared/img/2.png)
-1. Type "Visualforce Pages" into the `Quick Find` box and then select **Visualforce Pages**
-![screenshot 3](../../../shared/img/3.png)
-1. Click the **New** button
-![screenshot 4](../../../shared/img/4.png)
+1. Click the **gear** icon.
+![screenshot 1](/img/home.png)
+
+1. Select **Setup** from the menu.
+![screenshot 2](/img/gear_menu.png)
+
+1. Type "Visualforce Pages" into the `Quick Find` box and then select **Visualforce Pages**.
+![screenshot 3](/img/quick_find_visualforce_pages.png)
+
+1. Click the **New** button.
+![screenshot 4](/img/visualforce_pages_home.png)
+
 1. Complete the following fields:
-  - **Label**
-  - **Name** _Make sure spaces are replaced with underscores_
-  - **Available for Lightning Experience**...
-  - **Visualforce Markup**
-![screenshot 5](img/5.png)
+  - Label
+  - Name
+  - Available for Lightning Experience
+  - Visualforce Markup
+![screenshot 5](/img/visualforce_page_object.png)
 
 ### Markup Template
 
