@@ -1,10 +1,15 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
+sidebar_label: 'List Views'
 ---
 
-# List Views
+# List View Enablement
 
 Enable StickIt for use with _most_ Standard and Custom Object **List Views** by following these steps:
+
+:::info
+StickIt is enabled for the **Account**, **Contact** and **Lead** object list views out-of-the-box.
+:::
 
 1. Click the **gear** icon.
 ![screenshot 1](/img/home.png)

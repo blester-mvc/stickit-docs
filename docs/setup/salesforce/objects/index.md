@@ -1,10 +1,15 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
+sidebar_label: 'Objects'
 ---
 
-# Objects
+# Object Enablement
 
 Enable StickIt for use with any Standard or Custom Object by following these steps:
+
+:::info
+StickIt is enabled for the **Account**, **Contact** and **Lead** objects out-of-the-box.
+:::
 
 1. Click the **gear** icon.
 ![screenshot 1](/img/home.png)
