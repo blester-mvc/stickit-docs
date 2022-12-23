@@ -17,5 +17,5 @@ sidebar_label: 'Printing'
 1. Click the **Print** button for received labels OR turn on `Auto Print` to automatically print labels as they are received.
 
 :::tip
-You can use URL parameters to pre-select options or set a complete configuration. See the [Automation Station URL Paramters](../url-params/) guide for more information.
+You can use URL parameters to pre-select options or set a complete configuration. See the [Automation Station URL Parameters](../url-params/) guide for more information.
 :::

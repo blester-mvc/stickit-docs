@@ -1,14 +1,18 @@
 ---
 sidebar_position: 3
+sidebar_label: 'Sequence'
 ---
 
-# Print Quantity Macro
+# Sequence Macro
 
-When the print quantity is always more than 1, you may add a fixed print quantity macro by following these steps:
+When it is necessary for each label to include a reference to the total number of labels printed.  
+Example: `1 of 2`, `2 of 2`  
+
+To add a sequence macro, follow these steps:
 
 1. Add a new **text** element to the label template.
 
-1. Type the desired print **quantity** into the text box.
+1. Type `x of y` field into the text box.
 
 1. Right click on the text box and click the **Select >** button.
 
@@ -26,6 +30,6 @@ When the print quantity is always more than 1, you may add a fixed print quantit
       OR
     - Any text editor of your choosing
 
-1. Find and Replace the object name noted above with `PRINT_QTY`.
+1. Find and Replace the object name noted above with `LABEL_NUMBER`.
 
 1. **Save** the file.

@@ -1,14 +1,15 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
+sidebar_label: 'Print Quantity'
 ---
 
-# Dynamic Print Quantity Macro
+# Print Quantity Macro
 
-When the print quantity is derived from a field on the record, you can add a dynamic print quantity macro by following these steps:
+When the print quantity is always more than 1, you may add a fixed print quantity macro by following these steps:
 
 1. Add a new **text** element to the label template.
 
-1. Type a `{merge}` field into the text box.
+1. Type the desired print **quantity** into the text box.
 
 1. Right click on the text box and click the **Select >** button.
 

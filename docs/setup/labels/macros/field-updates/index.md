@@ -1,6 +1,6 @@
 ---
-sidebar_position: 9
-sidebar_label: 'Field Update Macro'
+sidebar_position: 7
+sidebar_label: 'Field Update'
 ---
 
 # Field Update Macro
