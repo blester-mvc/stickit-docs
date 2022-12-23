@@ -1,9 +1,9 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 sidebar_label: 'Create Page Button'
 ---
 
-# Standard/Custom Object Page Button
+# Create a Standard/Custom Object Page Button
 
 Create a button to launch StickIt from a record by following these steps:
 

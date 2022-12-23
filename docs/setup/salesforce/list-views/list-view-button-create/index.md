@@ -1,9 +1,9 @@
 ---
-sidebar_position: 7
+sidebar_position: 2
 sidebar_label: 'Create List View Button'
 ---
 
-# Standard/Custom Object List View Button
+# Create a Standard/Custom Object List View Button
 
 Create a button you can add to an object list view by following these steps:
 
