@@ -12,23 +12,26 @@ StickIt is enabled for the **Account**, **Contact** and **Lead** objects out-of-
 :::
 
 1. Click the **gear** icon.
-![screenshot 1](/img/home.png)
+![screenshot 1](/img/click_gear.png)
 
 1. Select **Setup** from the menu.
-![screenshot 2](/img/gear_menu.png)
+![screenshot 2](/img/click_setup.png)
 
 1. Type "Visualforce Pages" into the `Quick Find` box and then select **Visualforce Pages**.
-![screenshot 3](/img/quick_find_visualforce_pages.png)
+![screenshot 3](/img/click_vf_pages.png)
 
 1. Click the **New** button.
-![screenshot 4](/img/visualforce_pages_home.png)
+![screenshot 4](/img/click_new_vf_page.png)
 
 1. Complete the following fields:
   - Label
-  - Name
-  - Available for Lightning Experience
-  - Visualforce Markup
-![screenshot 5](/img/visualforce_page_object.png)
+  - Name (_should auto-populate, but spaces will need to be replaced with underscores to prevent errors when saving_)
+  - Available for Lightning Experience (_checked_)
+  - Visualforce Markup (_markup template below_)
+![screenshot 5](/img/type_vf_page_info_objects.png)
+
+1. Click **Save**
+![screenshot 6](/img/click_save_vf_page_objects.png)
 
 ### Markup Template
 
@@ -48,3 +51,6 @@ StickIt is enabled for the **Account**, **Contact** and **Lead** objects out-of-
   />
 </apex:page>
 ```
+:::info
+Replace `OBJECT_API_NAME` with the API Name of the Object you are enabling StickIt for.
+:::

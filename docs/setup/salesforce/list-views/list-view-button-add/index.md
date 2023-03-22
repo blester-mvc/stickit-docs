@@ -8,31 +8,28 @@ sidebar_label: 'Add List View Button'
 Launch StickIt from a button on an object list view by following these steps:
 
 1. Click the **gear** icon.
-![screenshot 1](/img/home.png)
+![screenshot 1](/img/click_gear.png)
 
 1. Select **Setup** from the menu.
-![screenshot 2](/img/gear_menu.png)
+![screenshot 2](/img/click_setup.png)
 
 1. Click the **Object Manager** tab.
-![screenshot 3](/img/setup_home.png)
+![screenshot 3](/img/click_object_manager.png)
 
-1. Type the **Object Name** this button is for into the `Quick Find` box.
-![screenshot 4](/img/object_manager.png)
-
-1. Click on the **[Object Name]** in the search results.
-![screenshot 5](/img/object_manager_search.png)
+1. Type the **Object Name** this button is for into the `Quick Find` box and click on the **[Object Name]** in the filtered list. _(Ex. Opportunity)_
+![screenshot 4](/img/click_object_name.png)
 
 1. Click on **List View Button Layout**
-![screenshot 6](/img/opportunity_object_home.png)
+![screenshot 6](/img/click_list_view_button_layout.png)
 
 1. Click the **menu** icon.
-![screenshot ](/img/list_view_button_layout_home.png)
+![screenshot ](/img/click_list_view_button_menu.png)
 
 1. Select **Edit** from the action menu.
-![screenshot ](/img/list_view_button_layout_action_menu.png)
+![screenshot ](/img/click_listview_button_layout_edit.png)
 
 1. Select the button you created for this list view in the `Available Buttons` list and then click the **Add** button.
-![screenshot ](/img/list_view_button_layout_edit.png)
+![screenshot ](/img/click_add_selected_listview_button.png)
 
 1. Click the **Save** button.
-![screenshot ](/img/list_view_button_layout_done.png)
+![screenshot ](/img/click_listview_button_layout_save.png)

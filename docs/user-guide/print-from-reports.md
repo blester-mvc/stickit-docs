@@ -6,7 +6,7 @@ sidebar_label: 'Print from Reports'
 # Print Labels Using a Report as a Data Source
 
 1. Click the **App Launcher** icon.
-![screenshot 1](/img/app_launcher.png)
+![screenshot 1](/img/click_app_launcher.png)
 
 1. Type "StickIt Print from Reports" into the `Search...` box and select **StickIt Print from Reports** from the menu.
 
